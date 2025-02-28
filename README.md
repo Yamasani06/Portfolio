@@ -5,7 +5,7 @@ This is a personal portfolio website showcasing my projects, skills, and certifi
 # Features
 Home Page: Introduction and a brief overview.
 
-About Page: Details about my background, education, and experience.
+About Page: Details about my background, education, and certifications.
 
 Projects: Showcases my work with descriptions.
 
